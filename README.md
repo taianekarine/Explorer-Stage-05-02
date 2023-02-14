@@ -2,7 +2,7 @@
 <h1 align="center"> Projeto - Calculadora de IMC </h1>
 
 <p align="center">
-Neste modúlo (Stage 05) do programa Explorer da Rocketseat estudaremos sobre manipulação da DOM, funções callback, recursividade e outros.
+Neste modúlo (Stage 05) do programa Explorer da Rocketseat estudamos sobre manipulação da DOM, funções callback, recursividade e outros.
 Este projeto foi desenvolvido durante as aulas da segunda etapa do stage 05 avançando no Javascript.
 </p>
 
