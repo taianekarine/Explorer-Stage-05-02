@@ -52,7 +52,7 @@ https://www.figma.com/file/5IUlgpEu94swRq7c2IkTFY/IMC-(Copy)?node-id=6%3A4&t=edA
 - Princípios do Clean Code;
 
 ## Você pode acessar o projeto e ver seus efeitos no site abaixo
-
+https://calculadora-de-imc-one.vercel.app/
 ---
 
 Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
