@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto - Calculaadorra de IMC </h1>
+<h1 align="center"> Projeto - Calculadora de IMC </h1>
 
 <p align="center">
 Neste modúlo (Stage 05) do programa Explorer da Rocketseat estudaremos sobre manipulação da DOM, funções callback, recursividade e outros.
